@@ -117,7 +117,9 @@ conference:
         menu:
         # - name: Registration
         #   relative_url: /registration/
-        - name: Location
+        - name: About Belo Horizonte
+          relative_url: /aboutbh/
+        - name: Workshop Venue
           relative_url: /location/
         # - name: Travel Awards
         #   relative_url: /travel_awards/
